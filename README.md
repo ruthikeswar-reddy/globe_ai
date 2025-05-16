@@ -16,3 +16,5 @@
    streamlit run frontend.py
 ```
 4. Create a chat in the application and start asking questions.
+# globe_ai
+Globe_ai project requirements is to create a restaraunt recommendation chatbot
