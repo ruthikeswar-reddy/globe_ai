@@ -1,0 +1,9 @@
+# virtual environment
+globai_venv/
+
+#.env file
+.env
+
+#__pycache__
+__pycache__/
+
