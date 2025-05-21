@@ -21,7 +21,7 @@ if st.button("Ask"):
         with st.spinner("Thinking..."):
             try:
                 # Replace this URL with your FastAPI backend endpoint
-                API_URL = "http://localhost:8000/ask"
+                API_URL = "http://127.0.0.1:8000/ask"
 
                 # Send the user question to the backend API
                 response = requests.post(API_URL, json={"user_question": user_question})
